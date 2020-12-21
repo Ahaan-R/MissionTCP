@@ -1,5 +1,8 @@
-How to run the code
+Project Description:
+TCP (Transmission Control Protocol) is a standard that defines how to establish and maintain a network conversation through which application programs can exchange data. TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.This project implements the TCP Protocol using Dijkstra's algorithm to determine the shortest path betweent the clients.
 
+
+Instructions to run:
 1.	Open the folder containing the code in a Linux environment, if preferable.
 2.	Open terminal pointing to the said folder. 
 3.	Run the "missiontcp.server.py" file on the terminal.
